@@ -1,0 +1,13 @@
+
+{
+  "name": "shopping cart",
+  "integrations": {},
+  "type": "angular",
+  "id": "272277d5",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
